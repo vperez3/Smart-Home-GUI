@@ -12,3 +12,4 @@
 - [ ] Begin working on GUI using the following resource
     https://github.com/vperez3/appJar
 - [ ] Ensure that the GUI application is functional
+- [ ] Import code to Raspberry Pi, and check to make sure GUI application is functional
