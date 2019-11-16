@@ -1,4 +1,4 @@
-<h1>Development Task<h1>
+<h1>Development Task</h1>
 
 - [x] Create repository
 - [x] Create readme file
