@@ -1,7 +1,7 @@
 # Smart-Home-GUI
 Application will allow you to control a LIFX light bulb color settings wirelessly. The GUI currently has the following operations: ON and OFF buttons that allow you to turn the light bulb on and off. You also have the option to change preselected colors which are currently: RED, ORANGE, YELLOW, GREEN, CYAN, BLUE, PURPLE, PINK, WHITE, and GOLD. Lastly, there are 3 color scene presets which cycle through an animation of colors. Scene 1 (Water) will cycle through a shade of white and blue colors. Scene 2 (Earth) will cycle through a shade of yellow and green colors. Scene 3 (Fire) will cycle through a variation of red and orange colors.
 
-<img src="/vperez3/Smart-Home-GUI/blob/master/Smart%20Home%20GUI.png" alt="Screenshot" style="max-width:100%; width="370" height="405">
+
 
 
 <h1>Installation Instructions</h1>
