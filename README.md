@@ -24,8 +24,10 @@ You must also have the following libraries installed
 
 <h1>References</h1>
 
-Details about the LIFX API can be found here: https://api.developer.lifx.com/
+Details about the LIFX API can be found here: https://api.developer.lifx.com
+
 lifxlan repository: https://github.com/mclarkk/lifxlan
 
 For more information on appJar visit appjar.info
+
 appJar Repository: https://github.com/jarvisteach/appJar
